@@ -1,0 +1,24 @@
+{
+  "parent": "vpo:upgrade_to_copper_tools",
+  "display": {
+    "icon": {
+      "id": "minecraft:cobbled_deepslate"
+    },
+    "title": "Weenie Hut Jr's",
+    "description": "Break through the deepslate layer",
+    "frame": "task",
+    "hidden": false
+  },
+  "criteria": {
+    "got_deepslate": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:cobbled_deepslate"]
+          }
+        ]
+      }
+    }
+  }
+}

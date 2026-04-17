@@ -1,0 +1,2 @@
+scoreboard objectives remove ray_steps
+scoreboard objectives remove ray_success

@@ -1,0 +1,167 @@
+enchantment overhaul
+Make it so an enchanting table on top of a crafting table gives you recipes
+Do limited crafting game rule disables crafting recipes unless they are unlocked in the recipe book
+Close gui by setting block to air and back?
+Advancements can give recipes
+/recipe give and take
+    remove the enchantment table
+    change all sources of enchanted books
+        gut fishing
+    smithing table involved?
+    make enchantments craftable with materials
+        sponges craft water based enchantments
+        nether mats craft fire based enchantments
+        amethyst involved?
+        bottle of enchanting involved?
+        mending costs nether star?
+        sniffer flowers
+            torch flower
+            pitcher plant
+        turtle scute
+        armadillo scute
+        nautalis shell
+        glow squid ink
+        frog light
+        goat horn
+        pottery sherds
+        armor trims
+        resin clumps from creaking biome
+        panda nature enchant
+            brown panda drops something when killed
+        polar bears do something too
+        prismarine
+        dragon egg
+        bucket of blue axolotl
+        music discs?
+        honey/honey comb
+        mace core
+	poisoned potato
+    custom enchantments (or smithing table things)
+        keep an item on death
+            recovery compass
+            totem of undying
+            vex armor trim from woodland mansion
+        unbreakable
+            custom items from rare structures
+        perma potion effects (require the potion or any of its variants as well)
+            night vision - helmet (or make me glow somehow)
+                torch flowers
+                glow ink
+                glow stone
+            speed - legs
+            jump boost - boots
+            resistance? - chest
+
+anvil overhaul
+    overhaul tool repair system
+    add the ability to make tools unbreakable
+
+villager trade overhaul
+
+structure overhaul
+    structure spawn rates
+    structure loot tables
+        item ideas
+            give building blocks instead of progression?
+            enchanted low grade tools
+            remove iron tools/armor from early and end game, keep only in middle game
+        nerf villages
+        nerf shipwrecks
+        nerf buried treasure?
+        buff stronghold
+        buff nether fortress?
+        look at bastion
+        look at end city
+        look at ancient city
+        ruined portals
+        buff dig sites
+        unique structures give unique rewards
+            jungle temple gives jungle stuff
+            desert temple gives desert stuff
+            etc
+
+ore spawn rate/height
+    remove normal diamond ore
+    have deepslate diamond only spawn below a certain level?
+    nerf diamond spawn rates across the board, try to make air exposed more likely
+    granite, andesite, diorite
+    anything else?
+nerf iron golem iron drops
+
+buff bad potions
+    make short ones longer
+    potion tipped arrows are useless
+        bosses are immune to potion effects
+
+tier overhaul - tools, armor, etc
+    base (wood / leather)
+        costs logs? - probably not
+        make leather armor crafted with rabbit hide
+            make rabbit hide crafted with leather
+    stone
+        costs granite/andesite/diorite/tuff
+    copper
+        raw copper smelts to copper nuggets
+    iron
+        raw iron smelts to iron nuggets
+    gold
+        raw gold smelts to gold nuggets
+        overhaul gold tools
+    diamond
+        nerf diamond tools so netherite is better
+    netherite
+        make netherite tools unbreakable?
+        mining netherite is boring af cause no caves or anything under the nether, just lava
+    other
+        blast furnace
+            increases smelting yield by 2-3x
+            change its recipe?
+                cost diamonds?
+        tridents - buff
+            make them be enchantable with sharpness/power somehow?
+            make them easier to get
+            increase durability (unbreakable?)
+        shield - nerf
+            make it cost higher tier materials
+        elytra
+            craftable but really hard to get
+        boats
+            add at least diamond to cost
+                or netherite
+        beds
+            more expensive
+
+need more ways to heal hp
+    early game
+        all flowers give regen soup except
+            Eye blossom open crafts blindness
+            Eye blossom closed crafts saturation
+            Wither rose crafts withering
+    mid game
+    late game
+
+decrease total hearts at start, increase them in some ways
+    time since last death?
+    craft more hearts?
+    wear armor?
+
+
+Advancement for mining deep slate correctly
+Deep slate should only drop cobbled deep slate if mined with the proper tool
+Can make items unburnable by giving them the data component damage_resistant with the is_fire tag
+Eyes of ender should be harder to craft
+    ender pearl
+    blaze powder
+    wind charge
+    prismarine shard
+    echo shard
+
+Good Old Days advancement for mining iron
+
+should endermen auto aggro
+    only in end? - to make end harder
+    throwing pearls aggros all endermen
+
+the geek factor on youtube
+
+make totem of undying non renewable by swapping how it is obtained with the vex smithing template

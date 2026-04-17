@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "place_enchanting_table": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": ["minecraft:enchanting_table"]
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "vpo:on_place_enchanting_table"
+  }
+}

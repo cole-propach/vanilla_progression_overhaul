@@ -1,0 +1,17 @@
+{
+  "parent": "story/mine_stone",
+  "display": {
+    "icon": {
+      "id": "minecraft:deepslate"
+    },
+    "title": "Hard as a Rock",
+    "description": "Mine deepslate with a pickaxe of insuffient strength",
+    "frame": "task",
+    "hidden": true
+  },
+  "criteria": {
+    "secret": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+execute as @a if entity @s[nbt={SelectedItem:{id:"minecraft:stone_pickaxe"}}] run advancement grant @s only vpo:break_iron

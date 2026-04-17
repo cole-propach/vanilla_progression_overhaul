@@ -1,0 +1,17 @@
+{
+  "parent": "story/upgrade_tools",
+  "display": {
+    "icon": {
+      "id": "minecraft:iron_ore"
+    },
+    "title": "Old Fashioned",
+    "description": "Try to mine iron ore with only a stone pickaxe",
+    "frame": "task",
+    "hidden": true
+  },
+  "criteria": {
+    "secret": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

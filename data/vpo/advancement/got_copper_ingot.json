@@ -1,0 +1,24 @@
+{
+  "parent": "story/upgrade_tools",
+  "display": {
+    "icon": {
+      "id": "minecraft:copper_ingot"
+    },
+    "title": "Acquire Software",
+    "description": "Smelt a Copper Ingot",
+    "frame": "task",
+    "hidden": false
+  },
+  "criteria": {
+    "got_copper_ingot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:copper_ingot"]
+          }
+        ]
+      }
+    }
+  }
+}
