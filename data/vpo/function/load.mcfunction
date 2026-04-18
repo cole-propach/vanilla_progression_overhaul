@@ -1,5 +1,5 @@
 gamerule players_sleeping_percentage 101
-gamerule natural_health_regeneration false
+gamerule natural_health_regeneration true
 
 # setup death counter
 scoreboard objectives add scoreDeathCount deathCount "Death Count"
