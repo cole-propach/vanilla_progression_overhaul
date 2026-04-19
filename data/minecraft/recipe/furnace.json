@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": "#minecraft:stone_tool_materials"
+    "#": "#vpo:furnace_materials"
   },
   "pattern": [
     "###",
