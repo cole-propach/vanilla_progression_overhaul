@@ -73,7 +73,9 @@
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
       "minecraft:disk_grass",
-      "minecraft:disk_clay"
+      "minecraft:disk_clay",
+      "vpo:overworld_cobblestone",
+      "vpo:stone_to_andesite"
     ],
     [],
     [
