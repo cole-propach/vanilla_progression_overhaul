@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:leather_leggings",
+  "addition": "minecraft:copper_ingot",
+  "template": [
+    "minecraft:plenty_pottery_sherd"
+  ],
+  "result": {
+    "id": "minecraft:copper_leggings"
+  }
+}
