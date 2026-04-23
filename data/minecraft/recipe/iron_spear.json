@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:copper_spear",
+  "addition": "minecraft:iron_ingot",
+  "template": [
+    "minecraft:sheaf_pottery_sherd"
+  ],
+  "result": {
+    "id": "minecraft:iron_spear"
+  }
+}
