@@ -1,0 +1,61 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "mtm",
+    "msm",
+    "mmm"
+  ],
+  "key": {
+    "m": "#minecraft:copper_tool_materials",
+    "s": "minecraft:copper_block",
+    "t": "minecraft:friend_pottery_sherd"
+  },
+  "result": {
+    "id": "minecraft:plenty_pottery_sherd",
+    "count": 1,
+    "components": {
+      "minecraft:item_name": {
+        "text": "Copper Upgrade",
+        "italic": false
+      },
+      "minecraft:item_model": "minecraft:bolt_armor_trim_smithing_template",
+      "minecraft:rarity": "uncommon",
+      "minecraft:lore": [
+        {
+          "text": "Ingredients",
+          "color": "blue",
+          "italic": false
+        },
+        {
+          "text": "Smithing Template",
+          "color": "gray",
+          "italic": false
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "Applies to:",
+          "color": "gray",
+          "italic": false
+        },
+        {
+          "text": " Stone/Leather Equipment",
+          "color": "blue",
+          "italic": false
+        },
+        {
+          "text": "Ingredients:",
+          "color": "gray",
+          "italic": false
+        },
+        {
+          "text": " Copper Ingot",
+          "color": "blue",
+          "italic": false
+        }
+      ]
+    }
+  }
+}

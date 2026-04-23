@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:iron_pickaxe",
+  "addition": "minecraft:diamond",
+  "template": [
+    "minecraft:brewer_pottery_sherd"
+  ],
+  "result": {
+    "id": "minecraft:diamond_pickaxe"
+  }
+}
