@@ -3,14 +3,13 @@
   "category": "equipment",
   "pattern": [
     "ded",
-    "fmb",
+    "fmf",
     "dld"
   ],
   "key": {
     "m": "#minecraft:stone_tool_materials",
-    "f": "minecraft:rotten_flesh",
-    "e": "minecraft:spider_eye",
-    "b": "minecraft:bone",
+    "f": "#vpo:low_tier_cobblestone_upgrade_mob_drops",
+    "e": "#vpo:high_tier_cobblestone_upgrade_mob_drops",
     "l": "minecraft:leather",
     "d": "minecraft:dirt"
   },
