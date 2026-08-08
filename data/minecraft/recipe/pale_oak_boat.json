@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "boat",
+  "key": {
+    "#": "minecraft:pale_oak_planks",
+    "d": "minecraft:diamond"
+  },
+  "pattern": [
+    "# #",
+    "d#d"
+  ],
+  "result": {
+    "id": "minecraft:pale_oak_boat"
+  }
+}

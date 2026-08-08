@@ -1,3 +1,17 @@
 {
-  
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "W": "#minecraft:wooden_tool_materials",
+    "o": "minecraft:iron_ingot",
+    "d": "minecraft:diamond"
+  },
+  "pattern": [
+    "odo",
+    "WWW",
+    " o "
+  ],
+  "result": {
+    "id": "minecraft:shield"
+  }
 }

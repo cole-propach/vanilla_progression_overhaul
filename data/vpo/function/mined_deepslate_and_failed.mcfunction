@@ -1,2 +1,2 @@
-function vpo:destroy_held_item
+function vpo:give_mining_fatigue
 advancement grant @s only vpo:break_deepslate

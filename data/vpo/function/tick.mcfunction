@@ -6,6 +6,14 @@ execute as @e[type=#vpo:hostile,tag=!fr_set] run tag @s add fr_set
 execute as @a if score @s minedDeepslate > @s lastMinedDeepslate run function vpo:mined_deepslate
 execute as @a run scoreboard players operation @s lastMinedDeepslate = @s minedDeepslate
 
+# detect when a player mines andesite
+execute as @a if score @s minedAndesite > @s lastMinedAndesite run function vpo:mined_andesite
+execute as @a run scoreboard players operation @s lastMinedAndesite = @s minedAndesite
+
+# detect when a player mines stone
+execute as @a if score @s minedStone > @s lastMinedStone run function vpo:mined_stone
+execute as @a run scoreboard players operation @s lastMinedStone = @s minedStone
+
 # detect when a player mines iron ore
 execute as @a if score @s minedIronOre > @s lastMinedIronOre run function vpo:mined_iron_ore
 execute as @a run scoreboard players operation @s lastMinedIronOre = @s minedIronOre

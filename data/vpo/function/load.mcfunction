@@ -10,6 +10,14 @@ scoreboard objectives add minedDeepslate minecraft.mined:minecraft.deepslate
 scoreboard objectives add lastMinedDeepslate dummy
 execute as @a run scoreboard players operation @s lastMinedDeepslate = @s minedDeepslate
 
+scoreboard objectives add minedAndesite minecraft.mined:minecraft.andesite
+scoreboard objectives add lastMinedAndesite dummy
+execute as @a run scoreboard players operation @s lastMinedAndesite = @s minedAndesite
+
+scoreboard objectives add minedStone minecraft.mined:minecraft.stone
+scoreboard objectives add lastMinedStone dummy
+execute as @a run scoreboard players operation @s lastMinedStone = @s minedStone
+
 scoreboard objectives add minedIronOre minecraft.mined:minecraft.iron_ore
 scoreboard objectives add lastMinedIronOre dummy
 execute as @a run scoreboard players operation @s lastMinedIronOre = @s minedIronOre
